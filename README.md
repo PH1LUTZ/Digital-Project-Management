@@ -46,14 +46,14 @@ A detailed Gantt chart is provided in the Excel template, outlining the project 
 ## Cost-Benefit Analysis
 
 **Formula:**  
-\[ 	ext{Present value of expected benefit} = rac{	ext{Future benefit}}{(1 + 	ext{Discount rate})^n} \]  
-\[ 	ext{Cost-benefit ratio} = rac{	ext{Present value of expected benefit}}{	ext{Project cost}} \]
+Present value of expected benefit = Future benefit/(1+Discount rate)𝑛
+Cost-benefit ratio = Present value of (expected benefit​/project cost)
 
 **Calculation:**  
 - Discount rate: 20%
 - Future benefit: $36,000
 - Present value of expected benefit: $30,000
-- Project cost: $15,000
+- Present value of project cost: $15,000
 - Cost-benefit ratio: 2
 
 **Investment Outcome:** The investment is positive as the cost-benefit ratio is greater than 1, indicating profitability.
@@ -76,7 +76,7 @@ A detailed Gantt chart is provided in the Excel template, outlining the project 
    - **Timeline:** After building the storefront
    - **Purpose:** Ensure technical details are documented for maintenance.
 
-2. **Platform User’s Manual** - Aliyah
+2. **Platform User’s Manual** - Moe
    - **Timeline:** Before training the Stefanos
    - **Purpose:** Provide a user manual for the Stefano family.
 
